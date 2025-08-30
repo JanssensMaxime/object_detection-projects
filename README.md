@@ -22,7 +22,7 @@ This project detects, tracks, and analyzes basketball actions from video footage
 
 1. Clone the repository:
    ```sh
-   git clone <repo_url>
+   git clone https://github.com/JanssensMaxime/object_detection-projects.git
    cd object_detection-projects
    ```
 2. Install Python dependencies:
