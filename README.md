@@ -47,7 +47,8 @@ Place the downloaded models in the `models/` folder.
 
 ## Model Training
 
-Jupyter notebooks are available in [`basketball_analysis/training_notebook`](basketball_analysis/training_notebook) for training or fine-tuning detection models (ball, players, etc.).
+Jupyter notebooks are available in [`basketball_analysis/training_notebook`](basketball_analysis/training_notebook) for training or fine-tuning detection models (ball, players, etc.).  
+**The more the model is trained, the more accurate the results will be.**
 
 ## Key Folders
 
