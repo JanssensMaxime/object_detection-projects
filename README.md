@@ -48,4 +48,4 @@ Jupyter notebooks are available in [`basketball_analysis/training_notebook`](bas
 
 - `models/`: YOLO or other detection models.
 - `output_videos/`: Generated annotated videos.
-- `stubs/`: Type definitions and mocks.
+- `stubs/`: Saved detections for faster execution.
