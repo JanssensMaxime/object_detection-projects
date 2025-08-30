@@ -31,6 +31,11 @@ This project detects, tracks, and analyzes basketball actions from video footage
    ```
    Notebooks use packages like `ultralytics`, `opencv-python`, `roboflow`, etc.
 
+## Model Download
+
+Download the trained detection models from: [Model Download Link](https://drive.google.com/drive/folders/15ap2OtM48Esoyb9ATmpNFOucojPfvdXe?usp=sharing)  
+Place the downloaded models in the `models/` folder.
+
 ## Usage
 
 1. Place your videos in the `input_videos/` folder.
